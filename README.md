@@ -1,5 +1,4 @@
 🚀 AI Pathfinder – Uninformed Search Visualizer
-GOOD PERFORMANCE TIME APP
 
 An interactive desktop visualization of six fundamental Uninformed Search Algorithms implemented in Python using Matplotlib.
 
