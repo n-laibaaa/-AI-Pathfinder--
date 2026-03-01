@@ -1,4 +1,4 @@
-🚀 AI Pathfinder – Uninformed Search Visualizer
+🚀 AI Pathfinder – Uninformed Search Visualizer 
 
 An interactive desktop visualization of six fundamental Uninformed Search Algorithms implemented in Python using Matplotlib.
 
