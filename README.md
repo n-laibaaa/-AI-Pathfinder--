@@ -29,11 +29,17 @@ Each traversal dynamically displays the algorithm name in the window title:
 GOOD PERFORMANCE TIME APP — BFS
 🧠 Algorithms Implemented
 Algorithm	Optimal	Complete	Memory Usage
+
 Breadth-First Search (BFS)	✅ Yes	✅ Yes	High
+
 Depth-First Search (DFS)	❌ No	❌ Not always	Low
+
 Uniform Cost Search (UCS)	✅ Yes	✅ Yes	High
+
 Depth-Limited Search (DLS)	❌ Depends	❌ Depends	Low
+
 Iterative Deepening DFS (IDDFS)	✅ Yes	✅ Yes	Moderate
+
 Bidirectional Search	✅ Yes	✅ Yes	Reduced
 
 🎨 Visualization Legend
@@ -62,13 +68,6 @@ Python 3.9+
 matplotlib
 
 numpy
-
-🔧 Installation
-
-Clone the repository:
-
-git clone https://github.com/yourusername/ai-pathfinder.git
-cd ai-pathfinder
 
 Install dependencies:
 
